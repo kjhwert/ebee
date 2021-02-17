@@ -25,7 +25,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage" : "https://kjhwert.github.io/ebee/",
+  "homepage": "https://kjhwert.github.io/ebee/",
   "eslintConfig": {
     "extends": [
       "react-app",

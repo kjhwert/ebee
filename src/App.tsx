@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <h1>은비야 안녕?</h1>
     </div>
   );
