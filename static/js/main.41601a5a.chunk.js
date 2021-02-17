@@ -1,0 +1,2 @@
+(this.webpackJsonpebee=this.webpackJsonpebee||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),s=c(3),i=c.n(s),a=c(0);var b=function(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)("h1",{children:"\uc740\ube44\uc57c \uc548\ub155?"})})};i.a.render(Object(a.jsx)(r.a.StrictMode,{children:Object(a.jsx)(b,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.41601a5a.chunk.js.map

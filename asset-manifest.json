@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ebee/static/js/main.41601a5a.chunk.js",
+    "main.js.map": "/ebee/static/js/main.41601a5a.chunk.js.map",
+    "runtime-main.js": "/ebee/static/js/runtime-main.98abbbb7.js",
+    "runtime-main.js.map": "/ebee/static/js/runtime-main.98abbbb7.js.map",
+    "static/js/2.c0782358.chunk.js": "/ebee/static/js/2.c0782358.chunk.js",
+    "static/js/2.c0782358.chunk.js.map": "/ebee/static/js/2.c0782358.chunk.js.map",
+    "index.html": "/ebee/index.html",
+    "static/js/2.c0782358.chunk.js.LICENSE.txt": "/ebee/static/js/2.c0782358.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98abbbb7.js",
+    "static/js/2.c0782358.chunk.js",
+    "static/js/main.41601a5a.chunk.js"
+  ]
+}
